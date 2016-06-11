@@ -5,9 +5,9 @@ El método `reduce` se usa para efectuar una operación sobre todos los elemento
 ```ruby
 mi_array = [1,2,3,4,5]
 
-# Suma
+### Suma
 mi_array.reduce(0, :+)
-#=> 15
+####=> 15
 
 # Resta
 mi_array.reduce(0, :-)
